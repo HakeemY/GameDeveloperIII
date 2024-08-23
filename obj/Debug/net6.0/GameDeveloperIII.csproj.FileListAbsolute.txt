@@ -1,0 +1,15 @@
+/Users/mobilitytransitcorp1/Desktop/Coding_Dojo2/GameDeveloperIII/bin/Debug/net6.0/GameDeveloperIII
+/Users/mobilitytransitcorp1/Desktop/Coding_Dojo2/GameDeveloperIII/bin/Debug/net6.0/GameDeveloperIII.deps.json
+/Users/mobilitytransitcorp1/Desktop/Coding_Dojo2/GameDeveloperIII/bin/Debug/net6.0/GameDeveloperIII.runtimeconfig.json
+/Users/mobilitytransitcorp1/Desktop/Coding_Dojo2/GameDeveloperIII/bin/Debug/net6.0/GameDeveloperIII.dll
+/Users/mobilitytransitcorp1/Desktop/Coding_Dojo2/GameDeveloperIII/bin/Debug/net6.0/GameDeveloperIII.pdb
+/Users/mobilitytransitcorp1/Desktop/Coding_Dojo2/GameDeveloperIII/obj/Debug/net6.0/GameDeveloperIII.csproj.AssemblyReference.cache
+/Users/mobilitytransitcorp1/Desktop/Coding_Dojo2/GameDeveloperIII/obj/Debug/net6.0/GameDeveloperIII.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mobilitytransitcorp1/Desktop/Coding_Dojo2/GameDeveloperIII/obj/Debug/net6.0/GameDeveloperIII.AssemblyInfoInputs.cache
+/Users/mobilitytransitcorp1/Desktop/Coding_Dojo2/GameDeveloperIII/obj/Debug/net6.0/GameDeveloperIII.AssemblyInfo.cs
+/Users/mobilitytransitcorp1/Desktop/Coding_Dojo2/GameDeveloperIII/obj/Debug/net6.0/GameDeveloperIII.csproj.CoreCompileInputs.cache
+/Users/mobilitytransitcorp1/Desktop/Coding_Dojo2/GameDeveloperIII/obj/Debug/net6.0/GameDeveloperIII.dll
+/Users/mobilitytransitcorp1/Desktop/Coding_Dojo2/GameDeveloperIII/obj/Debug/net6.0/refint/GameDeveloperIII.dll
+/Users/mobilitytransitcorp1/Desktop/Coding_Dojo2/GameDeveloperIII/obj/Debug/net6.0/GameDeveloperIII.pdb
+/Users/mobilitytransitcorp1/Desktop/Coding_Dojo2/GameDeveloperIII/obj/Debug/net6.0/GameDeveloperIII.genruntimeconfig.cache
+/Users/mobilitytransitcorp1/Desktop/Coding_Dojo2/GameDeveloperIII/obj/Debug/net6.0/ref/GameDeveloperIII.dll
